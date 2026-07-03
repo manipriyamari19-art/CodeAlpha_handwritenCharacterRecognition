@@ -24,4 +24,4 @@ https://www.kaggle.com/datasets/crawford/emnist
 
 ### Author
 **Priyadharshini M**  
-CodeAlpha AI Internship
+CodeAlpha ML Internship
